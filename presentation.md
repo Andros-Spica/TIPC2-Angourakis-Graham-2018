@@ -1,0 +1,106 @@
+# Anasazi
+
+<section data-background="images/15763640429_869366af3a_b.jpg"></section>
+<br></br><br>
+a playable agent-based simulation exploring
+climate change & cultural collapse
+in the remote past
+
+---
+
+<section data-background="images/2663216798_6f7b8321b8_b.jpg"></section>
+<h2>Ancestral Puebloan Peoples of the Amercian Southwest</h2>
+
+Note: Who are the anasazi
+
+---
+
+![Agent Based Model](images/aa_interface.png)
+
+The black box of agent based models
+
+Note: abm: how it works, how archaeologists use them. problem of abm: noone engages with them; too black-box
+
+---
+
+![games that play themselves](images/simmap.png)
+
+Games that play themselves? Insert humans!
+
+Note: abm games that play themselves, thus our response: insert the human into the game!
+
+---
+
+![simintounity](images/simintounity.png)
+
+Run the simulation _inside_ unity. Turn the player into one agent of many
+
+Note: concept then is to run the simulation inside unity, but use player engagement with the environment and the NPCs to effect change
+
+---
+
+![opening](images/openingstory1.png)
+
+---
+
+![opening](images/openingstory2.png)
+
+---
+
+![opening](images/openingstory3.png)
+
+Game story & framing subtley conveys design & research issues of the ABM to the player
+
+Note: thus the story of the game is used to subtley convey the design issues of the ABM to the player
+
+---
+
+![Flow](images/Flow.png)
+
+Note: the act of translation of abm into unity, + thinking of how the player engages with ABM when 'immersed' vs when external to the abm (as 'god') reveals serious assumptions and potential flaws in the original model. Important, considering the impact this model has had.
+
+---
+
++ The point of the ABM: to understand the factors behind the cultural collapse.
+
++ The point of the game: to understand the same by exploration, discovery, and attempting to _stave off_ the collapse. 
+
+![](images/32192770544_56150af698_b.jpg)
+
+---
+
+Interacting with NPCs to change the trajectory of the simulation
+
+<table border="0" bordercolor="#000000" style="background-color:#000000" width="100%" cellpadding="3" cellspacing="3">
+    <tr>
+        <td>![yarn](images/yarn.png)</td>
+        <td>![interaction1](images/interaction1.png)</td>
+    </tr>
+</table>
+
+---
+
+<section data-background="images/proceduralterrain1.png"></section>
+
+---
+
+<section data-background="images/proceduralterrain2.png"></section>
+
+---
+
+Andreas Angourakis, University of Barcelona
+
+Shawn Graham, Carleton University
+
+---
+
+image credits: 
+
+Ruins 1 by carlo_mastrogiacomo
+https://www.flickr.com/photos/carlo_mastrogiacomo/2663216798/sizes/l
+
+Calico Tanks Trail, by Wayne Hsieh
+https://www.flickr.com/photos/whsieh78/15763640429/
+
+Cliff Palace, by Don Graham
+https://www.flickr.com/photos/23155134@N06/32192770544/
