@@ -7,6 +7,8 @@ https://andros-spica.github.io/TIPC2-Angourakis-Graham-2018/
 
 Conference information: http://interactivepasts.com/the-interactive-pasts-conference-2/
 
+[Video](https://youtu.be/oxrlhYOw11s)
+
 Prepared with *reveal.js* (see https://revealjs.com/)
 
 **Authors**  
