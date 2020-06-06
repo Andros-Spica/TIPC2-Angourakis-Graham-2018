@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/151554198.svg)](https://zenodo.org/badge/latestdoi/151554198)
+
 # Gaming Artificial Anasazi. Applying immersive game design and storytelling to an agent-based model in archaeology
 
 Presentation for the Interactive Pasts Conference 2 (**TIPC2**), 8-10 October 2018, at the *Netherlands Institute for Sound and Vision*, Hilversum, Netherlands.
