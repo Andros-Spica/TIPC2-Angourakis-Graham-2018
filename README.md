@@ -5,7 +5,7 @@
 Presentation for the Interactive Pasts Conference 2 (**TIPC2**), 8-10 October 2018, at the *Netherlands Institute for Sound and Vision*, Hilversum, Netherlands.
 
 Presentation available at:
-https://andros-spica.github.io/Postdocs-Angourakis-2019/
+https://andros-spica.github.io/TIPC2-Angourakis-Graham-2018/
 
 Conference information: http://interactivepasts.com/the-interactive-pasts-conference-2/
 
