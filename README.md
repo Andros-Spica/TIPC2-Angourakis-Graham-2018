@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/151554198.svg)](https://zenodo.org/badge/latestdoi/151554198)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4580392.svg)](https://doi.org/10.5281/zenodo.4580392)
 
 # Gaming Artificial Anasazi. Applying immersive game design and storytelling to an agent-based model in archaeology
 
